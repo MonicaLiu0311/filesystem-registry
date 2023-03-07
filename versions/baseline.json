@@ -1,0 +1,22 @@
+{
+  "2023-03-07": {
+    "beicode": { 
+	  "baseline": "1.0.0", 
+	  "port-version": 0 
+	},
+    "beison": { 
+	  "baseline": "1.0.1", 
+	  "port-version": 0 
+	}
+  },
+  "2023-03-02": {
+    "beicode": { 
+	  "baseline": "1.0.0", 
+	  "port-version": 0 
+	},
+    "beison": { 
+	  "baseline": "1.0.0", 
+	  "port-version": 0 
+	}
+  }
+}
